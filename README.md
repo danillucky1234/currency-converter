@@ -9,7 +9,7 @@ If you follow them all consistently, you shouldn't have any problems.
 1.	In the cmd use command: 
 ```git clone https://github.com/danillucky1234/currency-converter.git```
 2.	In the Qt Creator:  
-File -> Open File or Project -> [Go to the folder where you downloaded the project] -> [Select all files except the img folder] -> Press the Open button and the project opens
+File -> Open File or Project -> [Go to the folder where you downloaded the project] -> [Select currency-converter.pro] -> Press the Open button and the project opens
 3.	Compile and run the project
 4.	Nothing will work for you, but don't worry, this is how it should be. The values will not change because you need to add two libraries to work with the network (send and receive requests). In addition, in the Application Output tab you will get an error like this:  
 ```qt.network.ssl: QSslSocket::connectToHostEncrypted: TLS initialization failed```  
