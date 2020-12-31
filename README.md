@@ -26,3 +26,6 @@ The free API from https://www.currencyconverterapi.com/ was used. But since it's
 *	Allowed Back in History- 1 year  
 All of these limitations are considered in our program. When writing the code for this project used one API, but so you do not have to register on the site, you can use the API, which I registered especially for you (it is already installed in the code of the project, you can install the project and safely start).  
 Of course you can go to the site, get your personal API and use it. If you get your API, you need to replace our public API( 45690ddeb55b52ed309c), in mainwindow.cpp, with your private one on these lines of code: 94, 102, 331.
+
+### TODO:
+* Bypass the restriction that prohibits sending queries and receiving responses to date ranges of more than 8 days
