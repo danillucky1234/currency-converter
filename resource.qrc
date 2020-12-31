@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/arrows2.png</file>
+        <file>img/bg-dollars.png</file>
+        <file>img/dollar.ico</file>
+    </qresource>
+</RCC>
