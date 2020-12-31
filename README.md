@@ -29,3 +29,7 @@ Of course you can go to the site, get your personal API and use it. If you get y
 
 ### TODO:
 * Bypass the restriction that prohibits sending queries and receiving responses to date ranges of more than 8 days
+
+## Video demonstration of the application
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=NZr9saWo9v8" target="_blank"><img src="http://img.youtube.com/vi/NZr9saWo9v8/0.jpg" 
+alt="Currency converter video" width="608" height="342"  /></a>
